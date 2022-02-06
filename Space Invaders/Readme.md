@@ -16,15 +16,15 @@
 ## How to run code? 🤷‍♂️
 1️⃣ You must download the .zip file
 
-2️⃣Extract to a common folder so as not to cause problems
+2️⃣ Extract to a common folder so as not to cause problems
 
-3️⃣Open the file "index.html"
+3️⃣ Open the file "index.html"
 
 
 # Have Fun!!!
 
 -------------------------------------------------------------------------------
-## ✨ contributors
+## ✨ contributors 👩‍💻👨‍💻
 
 <!-- ALL-CONTRIBUTORS-LIST:START - Do not remove or modify this section -->
 <!-- prettier-ignore-start -->
