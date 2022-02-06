@@ -3,6 +3,8 @@
 ## Goals
   🟢 You must eliminate all enemy ships
   
+  ![](/Gifs/win.gif)
+  
   🔴 Avoid getting destroyed
 
 ## Controls 🕹️🕹️
