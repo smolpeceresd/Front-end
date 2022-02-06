@@ -2,10 +2,12 @@
 
 ## Goals
   🟢 You must eliminate all enemy ships
-  
-![](/Gifs/win.gif)
-  
+<div align = "left"><img src="https://github.com/smolpeceresd/Front-end/blob/main/Space%20Invaders/Gifs/win.gif" alt="App Screenshot" style="zoom: 1%" /></div>
+
+
   🔴 Avoid getting destroyed
+<div align = "left"><img src="https://github.com/smolpeceresd/Front-end/blob/main/Space%20Invaders/Gifs/lose.gif" alt="App Screenshot" style="zoom: 1%" /></div>
+
 
 ## Controls 🕹️🕹️
 ➡️ To move the player to the Right 
